@@ -16,11 +16,13 @@
     
    where $ \mu $ is mean of all data, $ \sigma $ denote standard deviation
 </p>
-  <li>T
+  <li>The standar deviation is expressed as:
+  
+  $$ \sigma = \frac{\sum_{i=1}^N (x_i - \mu)}{N}
 
 </li>
-  <li>"interval" defines how dense the interval it is and perform the bisecion algorithm on each segment</li>
+  <li>The Gauss distribution very well fit many experimental data and determine the probability of occurence each of it</li>
 </ul>
-Finally the roots are presented using matplotlib with beatiful latex graphics. The roots are marked with big doots and the values are printes in the console.
+Finally the roots are presented using matplotlib with beatiful latex graphics. The straigh line at the middle shows the mean value of approximated data.
 </body>
 </html>

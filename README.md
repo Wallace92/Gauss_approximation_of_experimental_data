@@ -18,7 +18,7 @@
 </p>
   <li>The standar deviation is expressed as:
   
-  $$ \sigma = \frac{\sum_{i=1}^N (x_i - \mu)}{N}
+  $$ \sigma = \frac{\sum_{i=1}^N (x_i - \mu)}{N} $$
 
 </li>
   <li>The Gauss distribution very well fit many experimental data and determine the probability of occurence each of it</li>

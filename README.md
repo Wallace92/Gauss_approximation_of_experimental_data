@@ -23,6 +23,6 @@
 </li>
   <li>The Gauss distribution very well fit many experimental data and determine the probability of occurence each of it</li>
 </ul>
-Finally the roots are presented using matplotlib with beatiful latex graphics. The straigh line at the middle shows the mean value of approximated data.
+Finally the graph is presented using matplotlib library with beatiful latex graphics. The straight line at the middle shows the mean value of approximated data.
 </body>
 </html>
